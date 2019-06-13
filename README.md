@@ -6,6 +6,6 @@
 * Data Analysis with Numpy and Pandas
 * Supervised ML - 1
 * Supervised ML - 2
-* Unsupervised Ml
+* Unsupervised ML
 * Text Mining
 * Capstone Project

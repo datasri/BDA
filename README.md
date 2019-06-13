@@ -1,4 +1,4 @@
-# Applied DS and ML program
+# BDA
 **This Repository contains hands-on educational/training material with Python that I have developed and taught for the "Big Data Analytics" Program at Emory University**
 
 # The curriculum
